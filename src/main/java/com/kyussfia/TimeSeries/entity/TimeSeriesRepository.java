@@ -1,4 +1,4 @@
-package com.reg.time_series.entity;
+package com.kyussfia.TimeSeries.entity;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

@@ -1,4 +1,4 @@
-package com.reg.time_series;
+package com.kyussfia.TimeSeries;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Contact;

@@ -1,7 +1,7 @@
-package com.reg.time_series.controller;
+package com.kyussfia.TimeSeries.controller;
 
-import com.reg.time_series.entity.Greeting;
-import com.reg.time_series.entity.GreetingRepository;
+import com.kyussfia.TimeSeries.entity.Greeting;
+import com.kyussfia.TimeSeries.entity.GreetingRepository;
 import java.util.Collections;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

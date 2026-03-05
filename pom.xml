@@ -9,7 +9,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.reg.time_series</groupId>
+    <groupId>com.kyussfia</groupId>
     <artifactId>TimeSeries</artifactId>
     <version>1.0.0</version>
 

@@ -1,4 +1,4 @@
-package com.reg.time_series.entity;
+package com.kyussfia.TimeSeries.entity;
 
 import java.util.List;
 import java.util.Optional;

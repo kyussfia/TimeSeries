@@ -1,7 +1,7 @@
-package com.reg.time_series.controller;
+package com.kyussfia.TimeSeries.controller;
 
-import com.reg.time_series.entity.TimeSeries;
-import com.reg.time_series.entity.TimeSeriesRepository;
+import com.kyussfia.TimeSeries.entity.TimeSeries;
+import com.kyussfia.TimeSeries.entity.TimeSeriesRepository;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.media.Content;

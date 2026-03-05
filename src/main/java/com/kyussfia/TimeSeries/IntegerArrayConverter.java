@@ -1,4 +1,4 @@
-package com.reg.time_series;
+package com.kyussfia.TimeSeries;
 
 import jakarta.persistence.AttributeConverter;
 import jakarta.persistence.Converter;

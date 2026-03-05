@@ -1,4 +1,4 @@
-package com.reg.time_series.entity;
+package com.kyussfia.TimeSeries.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

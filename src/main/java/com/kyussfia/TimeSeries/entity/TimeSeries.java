@@ -1,7 +1,7 @@
-package com.reg.time_series.entity;
+package com.kyussfia.TimeSeries.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.reg.time_series.IntegerArrayConverter;
+import com.kyussfia.TimeSeries.IntegerArrayConverter;
 import jakarta.persistence.*;
 import lombok.*;
 
